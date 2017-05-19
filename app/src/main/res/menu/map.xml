@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/goBack"
+        android:orderInCategory="100"
+        android:title="Inicio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mostrarTodo"
+        android:title="Mostrar todo"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Listas Escolares</string>
+    <string-array name="spinner_evento">
+        <item>Escombros</item>
+        <item>Publicidad</item>
+        <item>Basura</item>
+        <item>Iluminacion</item>
+        <item>Reparacicon</item>
+    </string-array>
+    <string name="title_activity_map">Mapa</string>
+
+    <string name="navigation_drawer_open">Abrir Lista</string>
+    <string name="navigation_drawer_close">Cerrar Lista</string>
+
+    <string name="action_settings">Opciones</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
